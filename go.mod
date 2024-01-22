@@ -1,4 +1,4 @@
-module unique
+module github.com/irAbs174/go-learn
 
 go 1.21.5
 
